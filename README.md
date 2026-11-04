@@ -43,7 +43,9 @@ A learning exercise mapping a hypothetical online shop and applying the STRIDE m
 
 These are possible threats identified in a learning model, not confirmed vulnerabilities in a real online shop. The diagram notes assumptions about MFA, encrypted password storage, and a third-party payment gateway that would need to be verified in a real assessment.
 
-**Files:** `projects/online-shop-stride/online-shop-stride.png` (diagram) and `projects/online-shop-stride/online-shop-stride.drawio` (editable source).
+**Files:** `Online_Shop_STRIDE_Threat_Model.png` (diagram) and `Online_Shop_STRIDE_Threat_Model.drawio` (editable source).
+
+![Online shop STRIDE threat model](Online_Shop_STRIDE_Threat_Model.png)
 
 ## Next steps
 
