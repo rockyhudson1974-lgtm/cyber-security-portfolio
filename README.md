@@ -22,9 +22,13 @@ This study developed my understanding of foundational security principles, commo
 
 ### NCFE Level 3 Certificate in Cyber Security Practices — in progress
 
-I am currently studying the NCFE Level 3 Certificate in Cyber Security Practices (60357629). I will add projects and reflections as I complete the course. The Level 3 course is in progress; it is not yet a completed qualification.
+I am currently studying the NCFE Level 3 Certificate in Cyber Security Practices (60357629). The course is in progress; it is not yet a completed qualification.
 
-My Unit 1 foundations study note covers the CIA triad, identity and access, threats, vulnerabilities, risk and hazards: [Cyber Security Foundations: Unit 1 Study Note](study-notes/cyber-security-foundations.md).
+**Progress so far:**
+
+- Completed the Unit 1 Section 1 Learning Package.
+- Submitted Unit 1 Question 1, covering security concepts, identity, confidentiality, integrity, availability, threats, vulnerabilities, risks and hazards.
+- Prepared a [Unit 1 foundations study note](study-notes/cyber-security-foundations.md) summarising these concepts.
 
 ## Projects
 
@@ -52,3 +56,5 @@ These are possible threats identified in a learning model, not confirmed vulnera
 ## Next steps
 
 I will add further Level 3 coursework projects, practical exercises, and reflections as I complete them. Any security testing will be carried out only in authorised learning environments.
+
+This portfolio is for learning and development. It does not contain credentials, personal customer data, or details of testing against systems without permission.
