@@ -28,7 +28,10 @@ I am currently studying the NCFE Level 3 Certificate in Cyber Security Practices
 
 - Completed the Unit 1 Section 1 Learning Package.
 - Submitted Unit 1 Question 1, covering security concepts, identity, confidentiality, integrity, availability, threats, vulnerabilities, risks and hazards.
-- Prepared a [Unit 1 foundations study note](study-notes/cyber-security-foundations.md) summarising these concepts.
+- Studied vulnerability scanning and compared vulnerability testing, penetration testing, red-team testing, and social-engineering testing.
+- Reviewed the British Library cyber incident and NotPetya campaign, focusing on incident response and defensive lessons.
+- Prepared a [Unit 1 foundations study note](study-notes/cyber-security-foundations.md) summarising those concepts.
+- Prepared [Level 3 testing and incident study notes](study-notes/level-3-testing-and-incident-case-studies.md) from coursework on 12–13 November 2026.
 
 ## Projects
 
