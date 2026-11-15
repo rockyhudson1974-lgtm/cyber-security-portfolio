@@ -61,3 +61,8 @@ These are possible threats identified in a learning model, not confirmed vulnera
 I will add further Level 3 coursework projects, practical exercises, and reflections as I complete them. Any security testing will be carried out only in authorised learning environments.
 
 This portfolio is for learning and development. It does not contain credentials, personal customer data, or details of testing against systems without permission.
+
+
+## Portfolio roadmap
+
+See the [portfolio development roadmap](portfolio-roadmap.md) for planned risk, controls, vulnerability-assessment, and incident-response projects. Planned work is clearly marked and will be added only after it is completed.
