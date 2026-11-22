@@ -30,8 +30,11 @@ I am currently studying the NCFE Level 3 Certificate in Cyber Security Practices
 - Submitted Unit 1 Question 1, covering security concepts, identity, confidentiality, integrity, availability, threats, vulnerabilities, risks and hazards.
 - Studied vulnerability scanning and compared vulnerability testing, penetration testing, red-team testing, and social-engineering testing.
 - Reviewed the British Library cyber incident and NotPetya campaign, focusing on incident response and defensive lessons.
+- Studied common network and operating-system vulnerabilities, the purpose of retesting, and how to structure security reports.
+- Completed a simulated ransomware incident-reporting exercise, using an explicitly fictional timeline and recommendations.
 - Prepared a [Unit 1 foundations study note](study-notes/cyber-security-foundations.md) summarising those concepts.
 - Prepared [Level 3 testing and incident study notes](study-notes/level-3-testing-and-incident-case-studies.md) from coursework on 12–13 November 2026.
+- Prepared [Level 3 vulnerability identification and reporting notes](study-notes/level-3-vulnerability-identification-and-reporting.md) from coursework on 19–20 November 2026.
 
 ## Projects
 
@@ -61,7 +64,6 @@ These are possible threats identified in a learning model, not confirmed vulnera
 I will add further Level 3 coursework projects, practical exercises, and reflections as I complete them. Any security testing will be carried out only in authorised learning environments.
 
 This portfolio is for learning and development. It does not contain credentials, personal customer data, or details of testing against systems without permission.
-
 
 ## Portfolio roadmap
 
